@@ -1,4 +1,5 @@
-# Learning Structured Emotional Dynamics in Latent Space
+# Emotional Latent Dynamics: Trajectory Modelling of Emotion in Conversation
+(Learning Structured Emotional Dynamics in Latent Space)
 
 This repository contains part of the code for our Findings of EMNLP 2026 paper, *Learning Structured Emotional Dynamics in Latent Space via Trajectory Modeling and Controlled Transitions*.
 
